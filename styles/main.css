@@ -84,6 +84,7 @@ body {
     color: #222224;
     list-style: circle;
     margin: 1.5rem;
+    /* align-content: center; */
   }
 
   .container {
@@ -93,6 +94,22 @@ body {
     height: 80vh;
   }
 
+@media screen and (max-width: 992px) {
+  h1 {
+    color: #F7931A;
+    text-align: left;
+    margin-left: 2.0rem;
+  }
+  p {
+    color: #4D4D4D;
+  }
+  h2 {
+    color: #4D4D4D;
+  }
+  h3 {
+    color: #F7931A;
 
+  }
+}
   
   
