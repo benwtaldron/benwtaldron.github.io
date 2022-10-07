@@ -112,4 +112,24 @@ body {
   }
 }
   
+@media  screen and (max-width: 600px) {
+  h1 {
+    color:black;
+    text-align: right;
+    margin-right: 2.0rem;
+  }
+  p {
+    text-align: right;
+    color:black
+  }
+  h3 {
+    color:black;
+    text-align: right;
+  }
+  h2{
+    color: black;
+    text-align: right;
+  }
+}
+
   
